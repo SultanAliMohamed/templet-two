@@ -1,0 +1,74 @@
+
+h1{
+    font-family: "Cairo", sans-serif;
+}
+.main{
+width: 40;
+margin-top: 45px;
+padding: 10px;
+box-shadow: 1px 1px 10px silver;
+border-style: bold;
+}
+ 
+input{
+
+margin-bottom: 10px;
+width: 60%;
+padding: 5px;
+ font-family: 'cairo' , sans-serif;  
+font-size: 15px;
+font-weight: bold;
+
+
+}
+
+button{
+    font-family: "Cairo", sans-serif;
+    margin-bottom: 15px;
+    border: none;
+    padding: 10px;
+    width: 40%;
+    font-weight: bold;
+    font-size: 15px ;
+    background-color: #11c15c;
+cursor: pointer; 
+
+} 
+
+
+label{
+
+padding: 10px;
+font-size: 15px;
+font-family: "Cairo", sans-serif;
+background-color: #1f87cf;
+cursor: pointer;
+font-weight: bold;
+color: white;
+}
+
+a{
+text-decoration: none;
+font-size: 20px;
+text-align: center;
+font-family: "Cairo", sans-serif;
+font-weight: bold;
+}
+.card img{
+
+ width: 100%;
+height: 200px;
+
+
+
+}
+
+#aa{
+
+float: right;
+margin-top: 20px;
+margin-left: 10px;
+margin-right: 10px;
+
+
+}
